@@ -1,4 +1,4 @@
-# SteaneCode
-MSc Steane Code project
+# goldsmdn website
 
-Please see Pipecleaning for the initial work from which the baseline files were copied.
+Please see: 
+[Steane Code documentation](/SteaneCode/) 
